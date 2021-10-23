@@ -1,6 +1,6 @@
 h2{
     padding: 5px 0 0 7px;
-    background: url("../images/verh.gif") no-repeat left top;
+    background: url(https://cdn1.savepice.ru/uploads/2021/10/23/8b29a46d83d7e05d2e49a80d512658b3-full.gif) no-repeat left top;
     font-family: 'Arial Narrow';
     font-size: 1.2em;
     color: #94b767;
@@ -8,11 +8,11 @@ h2{
 
 .b1{
     width: 424px;
-    background: url("../images/telo.gif") repeat-y;
+    background: url(https://cdn1.savepice.ru/uploads/2021/10/23/39930d1c67c47b7c06b41a8012b0b5e8-full.gif) repeat-y;
 }
 
 .b3{
-    background: url("../images/niz.gif") no-repeat left bottom;
+    background: url(https://cdn1.savepice.ru/uploads/2021/10/23/cbdd6a947f945dab0393e3ca98263b61-full.gif) no-repeat left bottom;
     margin: 0;
     padding: 0 5px 15px 5px;
     font-family: Tahoma;
